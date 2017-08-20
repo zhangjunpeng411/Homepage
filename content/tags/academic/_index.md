@@ -1,6 +1,6 @@
 +++
 title = "Content tagged as 'Academic'"
-date = "2017-08-20"
+date = "Sun, Aug 20, 2017"
 math = false
 highlight = false
 
@@ -11,4 +11,4 @@ caption = ""
 
 +++
 
-Here is a list of all the content that has been tagged as *academic*.
+

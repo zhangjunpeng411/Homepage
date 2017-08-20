@@ -1,5 +1,5 @@
 +++
-date = "2017-01-16T00:00:00"
+date = "Mon, Jan 16, 2017"
 title = "Identifying miRNA sponge modules using biclustering and regulatory scores"
 abstract = ""
 abstract_short = ""
@@ -16,7 +16,7 @@ url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "headers/APBC2017_logo.png"
 caption = "My caption :smile:"
 
 +++
