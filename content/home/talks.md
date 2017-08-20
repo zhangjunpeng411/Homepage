@@ -1,7 +1,7 @@
 +++
 # Recent and Upcoming Talks widget.
 
-date = "Mon, Jan 16, 2017"
+date_format = "Mon, Jan 16, 2017"
 draft = false
 
 title = "Recent & Upcoming Talks"

@@ -1,6 +1,6 @@
 +++
 title = "Content tagged as 'Academic'"
-date = "Sun, Aug 20, 2017"
+date_format = "Sun, Aug 20, 2017"
 math = false
 highlight = false
 
