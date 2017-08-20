@@ -1,11 +1,11 @@
 +++
-date = "2017-01-01T00:00:00"
-title = "Example Talk"
+date = "2017-01-16T00:00:00"
+title = "Identifying miRNA sponge modules using biclustering and regulatory scores"
 abstract = ""
 abstract_short = ""
-event = "Hugo Academic Theme Conference"
-event_url = "https://example.org"
-location = "London, United Kingdom"
+event = "The Fifteenth Asia Pacific Bioinformatics Conference"
+event_url = "http://www.cs.cityu.edu.hk/~shuaicli/apbc2017/"
+location = "Shenzhen, China"
 
 selected = false
 math = true

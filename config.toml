@@ -25,7 +25,7 @@ defaultContentLanguageInSubdir = false
   organization_url = "http://www.dali.edu.cn/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Junpeng_Zhang3.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
+  email = "zhangjunpeng_411@yahoo.com"
   address = "Hongsheng Road #2, Gucheng Campus, Dali University, Yunnan, 671003, P. R. China"
   office_hours = "Monday to Friday or Email for appointment"
   phone = ""
@@ -124,26 +124,36 @@ defaultContentLanguageInSubdir = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "envelope"
+    icon = "email"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
-
+    link = "zhangjunpeng_411@yahoo.com"
+    
   [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+   icon = "email"
+   icon_pack = "fa"
+   link = "zjp@dali.edu.cn"
 
-  [[params.social]]
+  [[params.Academic]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Junpeng_Zhang3"
+
+  [[params.Academic]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.com.au/citations?hl=en&view_op=list_works&gmla=AJsN-F4U77WnwbOmpd6hFe0bTypArKx236B-P5MrDPTZeIAQDqjuOwOUMuAsBTEjb-fI7PcCR7cLckMA5yXZ62wDPH_6a87I2w&user=u5wIFyoAAAAJ"
 
-  [[params.social]]
+  [[params.Academic]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "https://github.com/zhangjunpeng411"
 
-
+  [[params.Academic]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "http://orcid.org/0000-0001-6127-9701"
+    
+    
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
