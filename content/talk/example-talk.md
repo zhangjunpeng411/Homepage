@@ -1,5 +1,5 @@
 +++
-date = "2017-01-16"
+date = "2017-01-16T00:00:00"
 title = "Identifying miRNA sponge modules using biclustering and regulatory scores"
 abstract = ""
 abstract_short = ""
