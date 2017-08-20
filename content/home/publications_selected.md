@@ -3,7 +3,7 @@
 # This widget displays publications from `content/publication/` which have
 # `selected = true` in their `+++` front matter.
 
-date = "Sun, Aug 20, 2017"
+date_format = "Sun, Aug 20, 2017"
 draft = false
 
 title = "Selected Publications"
