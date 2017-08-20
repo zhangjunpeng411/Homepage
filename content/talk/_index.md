@@ -1,6 +1,6 @@
 +++
 title = "Recent & Upcoming Talks"
-date = "2017-08-20T15:00:00Z"
+date = "Sun, Aug 20, 2017"
 math = false
 highlight = false
 
