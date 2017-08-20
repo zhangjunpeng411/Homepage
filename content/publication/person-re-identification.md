@@ -1,19 +1,20 @@
 +++
-abstract = "Person re-identification is a critical security task for recognizing a person across spatially disjoint sensors. Previous work can be computationally intensive and is mainly based on low-level cues extracted from RGB data and implemented on a PC for a fixed sensor network (such as traditional CCTV). We present a practical and efficient framework for mobile devices (such as smart phones and robots) where high-level semantic soft biometrics are extracted from RGB and depth data. By combining these cues, our approach attempts to provide robustness to noise, illumination, and minor variations in clothing. This mobile approach may be particularly useful for the identification of persons in areas ill-served by fixed sensors or for tasks where the sensor position and direction need to dynamically adapt to a target. Results on the BIWI dataset are preliminary but encouraging. Further evaluation and demonstration of the system will be available on our website."
+abstract = "Recent findings show that coding genes are not the only targets that miRNAs interact with. In fact, there is a pool of different RNAs competing with each other to attract miRNAs for interactions, thus acting as competing endogenous RNAs (ceRNAs). The ceRNAs indirectly regulate each other via the titration mechanism, i.e. the increasing concentration of a ceRNA will decrease the number of miRNAs that are available for interacting with other targets. The cross-talks between ceRNAs, i.e. their interactions mediated by miRNAs, have been identified as the drivers in many disease conditions, including cancers. In recent years, some computational methods have emerged for identifying ceRNA-ceRNA interactions. However, there remain great challenges and opportunities for developing computational methods to provide new insights into ceRNA regulatory mechanisms.
+In this paper, we review the publically available databases of ceRNA-ceRNA interactions and the computational methods for identifying ceRNA-ceRNA interactions (also known as miRNA sponge interactions). We also conduct a comparison study of the methods with a breast cancer dataset. Our aim is to provide a current snapshot of the advances of the computational methods in identifying miRNA sponge interactions and to discuss the remaining challenges."
 abstract_short = ""
-authors = ["GA Cushen"]
-date = "2015-09-01"
+authors = ["Thuc Duy Le, Junpeng Zhang, Lin Liu, Jiuyong Li"]
+date = "2017-07-15"
 image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "In *Signal Image Technology & Internet Systems (SITIS)*, IEEE."
+publication = "Briefings in Bioinformatics"
 publication_short = ""
 selected = false
-title = "A Person Re-Identification System For Mobile Devices"
+title = "Computational methods for identifying miRNA sponge interactions"
 url_code = ""
 url_dataset = ""
-url_pdf = "http://arxiv.org/pdf/1512.04133v1"
-url_project = "project/deep-learning/"
+url_pdf = "https://academic.oup.com/bib/article-abstract/18/4/577/2562759/Computational-methods-for-identifying-miRNA-sponge?redirectedFrom=fulltext"
+url_project = "project/bioinformatics/"
 url_slides = ""
 url_video = ""
 
