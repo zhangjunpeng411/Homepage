@@ -37,5 +37,5 @@ weight = 1
 
 # Biography
 
-Junpeng Zhang is an associate professor of Binformatics at the school of Engineering, Dali University. His research interests include Bioinformatics, Computational Biology and Data Mining. He is specially intersted in identifying miRNA mediated regulatory network.
+Junpeng Zhang is an associate professor of Binformatics at the school of Engineering, Dali University. His research interests include Bioinformatics, Computational Biology and Data Mining. He is specially interested in identifying miRNA mediated regulatory network.
 
