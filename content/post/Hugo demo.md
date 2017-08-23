@@ -1,5 +1,5 @@
 +++
-date = "2016-04-20T12:00:00"
+date = "2017-08-23"
 draft = false
 tags = ["academic", "hugo"]
 title = "Getting started with the Academic framework for Hugo"
@@ -9,8 +9,8 @@ Create a beautifully simple personal or academic website in under 10 minutes.
 """
 
 [header]
-image = "headers/getting-started.png"
-caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+image = ""
+caption = ""
 
 +++
 
