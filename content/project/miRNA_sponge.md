@@ -6,8 +6,7 @@ date = "2017-08-23"
 title = "miRNA sponge"
 
 # Project summary to display on homepage.
-summary = "Study on the identification and functional characteristics of miRNA
-sponge causal networks and modules in cancer"
+summary = "Study on the identification and functional characteristics of miRNA sponge causal networks and modules in cancer"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
