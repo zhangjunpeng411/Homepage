@@ -127,7 +127,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
    icon = "envelope"
    icon_pack = "fa"
-   link = "zjp@dali.edu.cn"
+   link = "mailto:zjp@dali.edu.cn"
+   
+  [[params.social]]
+   icon = "envelope"
+   icon_pack = "fa"
+   link = "mailto:zhangjunpeng_411@yahoo.com"
 
   [[params.social]]
     icon = "researchgate"
