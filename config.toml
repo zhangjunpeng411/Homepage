@@ -126,7 +126,7 @@ defaultContentLanguageInSubdir = false
     
   [[params.social]]
    icon = "email"
-   icon_pack = "fa"
+   icon_pack = "ai"
    link = "zjp@dali.edu.cn"
 
   [[params.social]]
