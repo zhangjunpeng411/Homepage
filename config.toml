@@ -122,16 +122,12 @@ defaultContentLanguageInSubdir = false
   #   google-scholar, arxiv, orcid, researchgate, mendeley
   #
   #   Full list: https://jpswalsh.github.io/academicons/
-
-  [[params.social]]
-    icon = "email"
-    icon_pack = "fa"
-    link = "mailto:zhangjunpeng_411@yahoo.com"
+  
     
   [[params.social]]
    icon = "email"
    icon_pack = "fa"
-   link = "mailto:zjp@dali.edu.cn"
+   link = "zjp@dali.edu.cn"
 
   [[params.social]]
     icon = "researchgate"
