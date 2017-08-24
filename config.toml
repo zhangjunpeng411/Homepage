@@ -31,7 +31,6 @@ defaultContentLanguageInSubdir = false
   phone = ""
   skype = ""
   telegram = ""
-  sidebar = "<script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5rfmdtcplji&amp;m=7&amp;s=320&amp;c=e63100" async="async"></script>"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
