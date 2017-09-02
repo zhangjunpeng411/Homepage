@@ -1,5 +1,5 @@
 +++
-date = "2017-08-23"
+date = ""
 draft = false
 tags = ["academic", "hugo"]
 title = "Getting started with the Academic framework for Hugo"
